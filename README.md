@@ -35,19 +35,19 @@
 
 ## :date:일자별 역할
 
-[:one:1일차](https://www.notion.so/1-824d3916ea794fe38f6b624932f866d8?pvs=21)
+:one:[1일차](https://www.notion.so/1-824d3916ea794fe38f6b624932f866d8?pvs=21)
 
-[:two:2일차](https://www.notion.so/2-8ada8651e8ff4881a439ab34b636bbf4?pvs=21)
+:two:[2일차](https://www.notion.so/2-8ada8651e8ff4881a439ab34b636bbf4?pvs=21)
 
-[:three:3일차](https://www.notion.so/3-24f1b305aad24e03a0573f8cc4e49a13?pvs=21)
+:three:[3일차](https://www.notion.so/3-24f1b305aad24e03a0573f8cc4e49a13?pvs=21)
 
-[:four:4일차](https://www.notion.so/4-41d1eb6669144b3eba4a9665a1862690?pvs=21)
+:four:[4일차](https://www.notion.so/4-41d1eb6669144b3eba4a9665a1862690?pvs=21)
 
-[:five:5일차](https://www.notion.so/5-1c4b0fbf0fcb442db5e7917c34f32d70?pvs=21)
+:five:[5일차](https://www.notion.so/5-1c4b0fbf0fcb442db5e7917c34f32d70?pvs=21)
 
-[:six:6일차](https://www.notion.so/6-918e790fc9d14066a684191edc122f01?pvs=21)
+:six:[6일차](https://www.notion.so/6-918e790fc9d14066a684191edc122f01?pvs=21)
 
-[:seven:7일차](https://www.notion.so/7-98542452e4424f6280bc3cdaeda93209?pvs=21)
+:seven:[7일차](https://www.notion.so/7-98542452e4424f6280bc3cdaeda93209?pvs=21)
 
 ## 일정
 
