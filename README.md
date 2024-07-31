@@ -1,8 +1,5 @@
 # Pixel Minions
 
-[https://github.com/PixelMinions/CS-study.git](https://github.com/PixelMinions/CS-study.git)
-
-
 ## :sparkles:팀원 
 - 박설빈
 - 김재훈
@@ -11,7 +8,7 @@
 - 남가람
 - 오민성
 
-## :question:RULES
+## :question:규칙
 
 - 일주일에 2번 (월, 목) 18:00시 정시에 시작
 - 각자 맡은 파트 10분 설명, 5분 질의 응답
@@ -49,6 +46,3 @@
 
 [7일차](https://www.notion.so/7-98542452e4424f6280bc3cdaeda93209?pvs=21)
 
-## 일정
-
-[CS 스터디](Pixel%20Minions%202d380dac8e864127932cee4640225abd/CS%20%E1%84%89%E1%85%B3%E1%84%90%E1%85%A5%E1%84%83%E1%85%B5%20f8a48d1209fd48ff934fbc948066a70e.csv)
