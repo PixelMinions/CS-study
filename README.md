@@ -1,8 +1,10 @@
 # Pixel Minions
 
 ## :sparkles:팀원 
+## Team
+|<img src="https://avatars.githubusercontent.com/u/174398545?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/134343781?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/106576062?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/99578261?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/58172997?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/83564484?v=4" width="150" height="150"/>|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|김재훈<br/>[@KimJaehoon64](https://github.com/KimJaehoon64)|남가람<br/>[@catnine11](https://github.com/catnine11)|박설빈<br/>[@seolbin01](https://github.com/seolbin01)|오민성<br/>[@beanteacher](https://github.com/beanteacher)|최두혁<br/>[@enking](https://github.com/enking)|황희순<br/>[@aosskfdlrla](https://github.com/aosskfdlrla)|
+|[@KimJaehoon64](https://github.com/KimJaehoon64)|[@catnine11](https://github.com/catnine11)|Park Seolbin<br/>[@seolbin01](https://github.com/seolbin01)|[@beanteacher](https://github.com/beanteacher)|[@enking](https://github.com/enking)|황희순<br/>[@aosskfdlrla](https://github.com/aosskfdlrla)|
 
 
 ## :question:규칙
