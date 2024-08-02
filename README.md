@@ -1,8 +1,7 @@
 # Pixel Minions
 
 ## :sparkles:팀원 
-## Team
-|<img src="https://avatars.githubusercontent.com/u/174398545?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/134343781?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/106576062?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/99578261?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/58172997?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/83564484?v=4" width="150" height="150"/>|
+|<img src="https://avatars.githubusercontent.com/u/174398545?v=4" width="100" height="100"/>|<img src="https://avatars.githubusercontent.com/u/134343781?v=4" width="100" height="100"/>|<img src="https://avatars.githubusercontent.com/u/106576062?v=4" width="100" height="100"/>|<img src="https://avatars.githubusercontent.com/u/99578261?v=4" width="100" height="100"/>|<img src="https://avatars.githubusercontent.com/u/58172997?v=4" width="100" height="100"/>|<img src="https://avatars.githubusercontent.com/u/83564484?v=4" width="100" height="100"/>|
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |[@KimJaehoon64](https://github.com/KimJaehoon64)|[@catnine11](https://github.com/catnine11)|Park Seolbin<br/>[@seolbin01](https://github.com/seolbin01)|[@beanteacher](https://github.com/beanteacher)|[@enking](https://github.com/enking)|황희순<br/>[@aosskfdlrla](https://github.com/aosskfdlrla)|
 
