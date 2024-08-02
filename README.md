@@ -1,9 +1,30 @@
 # Pixel Minions
 
 ## :sparkles:팀원 
-|<img src="https://avatars.githubusercontent.com/u/174398545?v=4" width="100" height="100"/>|<img src="https://avatars.githubusercontent.com/u/134343781?v=4" width="100" height="100"/>|<img src="https://avatars.githubusercontent.com/u/106576062?v=4" width="100" height="100"/>|<img src="https://avatars.githubusercontent.com/u/99578261?v=4" width="100" height="100"/>|<img src="https://avatars.githubusercontent.com/u/58172997?v=4" width="100" height="100"/>|<img src="https://avatars.githubusercontent.com/u/83564484?v=4" width="100" height="100"/>|
-|:-:|:-:|:-:|:-:|:-:|:-:|
-|[@KimJaehoon64](https://github.com/KimJaehoon64)|[@catnine11](https://github.com/catnine11)|Park Seolbin<br/>[@seolbin01](https://github.com/seolbin01)|[@beanteacher](https://github.com/beanteacher)|[@enking](https://github.com/enking)|황희순<br/>[@aosskfdlrla](https://github.com/aosskfdlrla)|
+
+<div align="center">
+
+<table>
+  <tr>
+    <td><img src="https://avatars.githubusercontent.com/u/174398545?v=4" style="width: auto; max-width: 150px; height: auto;" /></td>
+    <td><img src="https://avatars.githubusercontent.com/u/134343781?v=4" style="width: auto; max-width: 150px; height: auto;" /></td>
+    <td><img src="https://avatars.githubusercontent.com/u/106576062?v=4" style="width: auto; max-width: 150px; height: auto;" /></td>
+    <td><img src="https://avatars.githubusercontent.com/u/99578261?v=4" style="width: auto; max-width: 150px; height: auto;" /></td>
+    <td><img src="https://avatars.githubusercontent.com/u/58172997?v=4" style="width: auto; max-width: 150px; height: auto;" /></td>
+    <td><img src="https://avatars.githubusercontent.com/u/83564484?v=4" style="width: auto; max-width: 150px; height: auto;" /></td>
+  </tr>
+  <tr>
+    <td align="center">[@KimJaehoon64](https://github.com/KimJaehoon64)</td>
+    <td align="center">[@catnine11](https://github.com/catnine11)</td>
+    <td align="center">Park Seolbin<br/>[@seolbin01](https://github.com/seolbin01)</td>
+    <td align="center">[@beanteacher](https://github.com/beanteacher)</td>
+    <td align="center">[@enking](https://github.com/enking)</td>
+    <td align="center">황희순<br/>[@aosskfdlrla](https://github.com/aosskfdlrla)</td>
+  </tr>
+</table>
+
+</div>
+
 
 
 ## :question:규칙
