@@ -1,12 +1,9 @@
 # Pixel Minions
 
 ## :sparkles:팀원 
-- 박설빈
-- 김재훈
-- 최두혁
-- 황희순
-- 남가람
-- 오민성
+|:-:|:-:|:-:|:-:|:-:|:-:|
+|김재훈<br/>[@KimJaehoon64](https://github.com/KimJaehoon64)|남가람<br/>[@catnine11](https://github.com/catnine11)|박설빈<br/>[@seolbin01](https://github.com/seolbin01)|오민성<br/>[@beanteacher](https://github.com/beanteacher)|최두혁<br/>[@enking](https://github.com/enking)|황희순<br/>[@aosskfdlrla](https://github.com/aosskfdlrla)|
+
 
 ## :question:규칙
 
